@@ -6,7 +6,7 @@ A simple app that uses libraries like pyttsx3, smptlib, webbrowser etc. in pytho
 
 Convert it to a .exe file afterwards for easy execution by this command :
 
-  ` pip install pyinstaller`
+ ``` pip install pyinstaller```
 
   
-  `pyinstaller --onefile 'jarvis.py'`
+  ```pyinstaller --onefile 'jarvis.py'```
